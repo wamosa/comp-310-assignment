@@ -1,0 +1,31 @@
+/* styles.css */
+body {
+    background-image: url('https://www.kabarak.ac.ke/');
+    background-repeat: no-repeat;
+    background-position: top right;
+    font-family: 'Times New Roman', serif;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+table {
+    margin: 20px;
+    border-collapse: collapse;
+    width: 400px;
+}
+
+td {
+    padding: 10px;
+}
+
+.left {
+    background-color: lightblue;
+    text-align: right;
+}
+
+.submit {
+    text-align: center;
+    background-color: lightblue;
+}
